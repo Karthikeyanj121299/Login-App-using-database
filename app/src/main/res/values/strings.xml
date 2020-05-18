@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="title_activity_update_password">UpdatePassword</string>
+</resources>
